@@ -5,6 +5,7 @@ Test case
 4.	Enter Last Name “gagoshidze”
 5.	Enter email “gagoshidzetam55@gmail.com”
 6.	 Enter password “tamarAR77”
-    Enter confirm password "tamarAR77"
-7.	Click “Create Account”
-8.	Validate logged in succesfully
+7.   Enter confirm password "tamarAR77"
+8.	Click “Create Account”
+9.	Validate logged in succesfully
+
