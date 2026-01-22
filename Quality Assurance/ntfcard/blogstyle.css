@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Outfit", sans-serif;
+  font-size: 18px;
+  background-color: rgb(150, 111, 40);
+}
+
+.autor {
+  display: flex;
+  align-items: center;
+}
+.name {
+}
+.photos {
+  border-radius: 15px;
+}
+.autorphoto {
+  width: 30px;
+  height: 30px;
+}
+.blogcontainer {
+  max-width: 340px;
+  padding: 25px;
+  background-color: aliceblue;
+  border-radius: 15px;
+  border: 1px solid black;
+  box-shadow: 12px 12px 2px 1px rgb(44, 43, 43);
+}
+button {
+  margin-top: 20px;
+  background-color: rgb(198, 165, 103);
+  border: none;
+  padding: 5px;
+}
